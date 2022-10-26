@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ERP CRM Projects<br>👯 I’m looking to collaborate on PHP VUE.JS Angular<br>🤝 I’m looking for help with various ERP CRM modules<br>🌱 I’m currently learning Python<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ERP & CRM Projects<br>👯 I’m looking to collaborate on PHP VUE ANGULAR<br>🤝 I’m looking for help with various ERP & CRM modules<br>🌱 I’m currently learning Django<br>💬 Ping me about anything<br>⚡ Fun fact -> Always a beginner :)
 
 
 ## 🌐 Socials:

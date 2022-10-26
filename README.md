@@ -14,4 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aljinas&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=aljinas&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
